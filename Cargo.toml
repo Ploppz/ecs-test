@@ -1,0 +1,12 @@
+[package]
+name = "test-ecs"
+version = "0.1.0"
+authors = ["Erlend Hofstad Langseth <3rlendhl@gmail.com>"]
+
+[dependencies]
+rand = "0.3"
+ecs = "*"
+piston = "*"
+piston2d-graphics = "*"
+pistoncore-glutin_window = "*"
+piston2d-opengl_graphics = "*"
